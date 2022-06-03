@@ -56,7 +56,7 @@ I will typically try to hold back on contacting others after hours and during br
 
 ### Scheduling Time
 
-Whether it's meetings or other scheduled items, I have a preference towards grouping meetings together to allow for as much heads-down time as possible.
+Whether it's meetings or other scheduled items, I have a preference towards grouping meetings together to allow for larger blocks of heads-down time.
 
 ### Pair programming
 
