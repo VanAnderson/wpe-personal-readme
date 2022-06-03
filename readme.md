@@ -28,8 +28,8 @@ A big value I have in team settings is that an appropriate amount of friction ca
 - [Strong opinions weakly held](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)
 - Bringing novel ideas to the table to discuss, but prioritizing practicality.
 - Taking appropriate risks, intellectually and personally.
-- Introspection and personal growth
-- Open discussion of ideas without attachment to them.
+- Introspection and personal growth.
+- Open discussion of ideas without personal attachment to them.
 
 ## Technical skills and experience
 
@@ -60,7 +60,7 @@ Whether it's meetings or other scheduled items, I have a preference towards grou
 
 ### Pair programming
 
-Please reach out to me if you want to pair! I'm normally open to pair programming, and I think it can be useful as more than just a teaching tool. Even for two experienced developers, I believe the greater immediate cost of developer time to effective pair programming can almost entirely be [offset by productivity gains](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF). There can be tasks that are better suited to individual work, but in my view, most teams under utilize pair programming opportunities.
+Please reach out to me if you want to pair! I'm normally open to pair programming, and I think it can be useful as more than just a teaching tool. Even for two experienced developers, I believe the greater immediate cost of developer time to effective pair programming can almost entirely be [offset by productivity gains](https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF). There can be tasks that are better suited to individual work, but in my view, most teams under-utilize pair programming opportunities.
 
 ## Strengths and Weaknesses
 
