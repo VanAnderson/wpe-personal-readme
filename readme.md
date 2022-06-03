@@ -34,8 +34,8 @@ A big value I have in team settings is that an appropriate amount of friction ca
 ## Technical skills and experience
 
 - Most of my experience is in React and Rails.
-- Golang is an intermediate skill for me and one of the areas I'm focused on learning.
-- DevOps topics are a relatively weaker area is my skill set and something I'm putting effort into improving.
+- Golang is an intermediate skill for me and one of the areas I'm focused on leveling up.
+- DevOps topics are a relatively weaker area in my skill set and something I'm putting effort into improving.
   - Before WPE, I primarily worked in products that had a monolithic architecture, so I've come here with a lot to learn in this area!
 
 ## The Day-To-Day
@@ -66,20 +66,19 @@ Please reach out to me if you want to pair! I'm normally open to pair programmin
 
 ### Strengths
 
-1. *Creative problem-solving* - I enjoy finding new ideas and patterns to problems and feel comfortable exploring possibilities that are "outside of the box". Sometimes this means I've had to work harder towards prioritizing practicality, understanding community standards, and making sure I always think of horses before zebras at the sounds of hooves. Although on a good day, I can find ideas that are both novel AND practically useful.
+1. *Creative problem-solving* - I enjoy finding new ideas and patterns to solve problems and I feel excited to explore possibilities that are "outside of the box". Sometimes this means I've had to work harder towards prioritizing practicality, understanding community standards, and making sure I always think of horses before zebras at the sounds of hooves. Although on a good day, I can find ideas that are both novel AND practically useful.
 
-2. *Curiosity* - One of the greatest pleasures of this career is the amount that we get to learn on a daily basis. Curiosity is a useful trait for learning technical skills, but I strongly believe it's also crucial to a good team dynamic to be curious about other people on an interpersonal level.
+2. *Curiosity* - One of the greatest pleasures of this career is the amount that we get to learn on a daily basis. Curiosity is a useful trait for learning technical skills, but I also strongly believe it's crucial to a good team dynamic to be curious about other people on an interpersonal level.
 
 3. *Solving interpersonal conflict* - I don't always get things right the first (or second) time, but if you approach me with an issue of how I've interacted with you, then I am confident that we can have a productive discussion about it which we will both walk away from feeling better.
 
 ### Things I'm working on 😅
 
-1. *Focus* - People often describe me as a "scatterbrained" person. It's a challenge to keep to one train of thought sometimes, and this can become apparent when I'm trying to discuss new ideas or speak off the cuff about something that I have a lot of thoughts on. This can also come up when I'm trying to start a new piece of work that has many components to it that I want to think through first, even if it's better to just start the work and solve problems as they come. Making detailed notes to prepare for speaking about complex things and writing TODO lists for complicated tickets has been a big help with this.
+1. *Focus* - People often describe me as a "scatterbrained" person. It's a challenge to stay on one train of thought sometimes, and this can become apparent when I'm trying to discuss new ideas or speak off the cuff about something that I have a lot of thoughts on. This can also come up when I'm trying to start a new piece of work that has many components to it that I want to think through first, even if it's better to just start the work and solve problems as they come. Making detailed notes to prepare for speaking about complex things and writing TODO lists for complicated tickets has been a big help with this.
 
 2. *Organization* - I don't have as methodic and well-defined process as many other developers do, and I think improving in this area could be a benefit to the teams I work with. I'm working on having a more defined process around regularly checking notifications and calendar events, scheduling review time, and staying on top of the day to day maintenance tasks that this job requires.
 
 3. *Asking for help* - I enjoy being useful to other people and sharing ideas and experience, but often struggle with asking for help in areas which I don't have as much experience in. Sometimes this ends with spending too much time spinning my wheels. I am trying to do a better job at time boxing myself when I hit roadblocks that could benefit from asking for help and I'm working towards tapping into all the resources and #help channels WPE provides!
-
 
 ### Ect
 
