@@ -68,7 +68,7 @@ Please reach out to me if you want to pair! I'm normally open to pair programmin
 
 1. *Creative problem-solving* - I enjoy finding new ideas and patterns to problems and feel comfortable exploring possibilities that are "outside of the box". Sometimes this means I've had to work harder towards prioritizing practicality, understanding community standards, and making sure I always think of horses before zebras at the sounds of hooves. Although on a good day, I can find ideas that are both novel AND practically useful.
 
-2. *Curiosity* - One of the greatest pleasures of this career is the amount that we get to learn on a daily basis. Curiosity is a useful trait for leaning technical skills, but I strongly believe it's also crucial to a good team dynamic to be curious about other people on an interpersonal level.
+2. *Curiosity* - One of the greatest pleasures of this career is the amount that we get to learn on a daily basis. Curiosity is a useful trait for learning technical skills, but I strongly believe it's also crucial to a good team dynamic to be curious about other people on an interpersonal level.
 
 3. *Solving interpersonal conflict* - I don't always get things right the first (or second) time, but if you approach me with an issue of how I've interacted with you, then I am confident that we can have a productive discussion about it which we will both walk away from feeling better.
 
