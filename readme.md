@@ -79,3 +79,9 @@ Please reach out to me if you want to pair! I'm normally open to pair programmin
 2. *Organization* - I don't have as methodic and well-defined process as many other developers do, and I think improving in this area could be a benefit to the teams I work with. I'm working on having a more defined process around regularly checking notifications and calendar events, scheduling review time, and staying on top of the day to day maintenance tasks that this job requires.
 
 3. *Asking for help* - I enjoy being useful to other people and sharing ideas and experience, but often struggle with asking for help in areas which I don't have as much experience in. Sometimes this ends with spending too much time spinning my wheels. I am trying to do a better job at time boxing myself when I hit roadblocks that could benefit from asking for help and I'm working towards tapping into all the resources and #help channels WPE provides!
+
+
+### Ect
+
+<img width="963" alt="Screen Shot 2022-06-03 at 1 27 54 PM" src="https://user-images.githubusercontent.com/16739070/171940046-34109130-1418-4c19-ba89-f01c90085e58.png">
+
