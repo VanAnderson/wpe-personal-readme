@@ -25,7 +25,7 @@ A big value I have in team settings is that an appropriate amount of friction ca
 - Curiosity before judgement.
 - [Make it work, make it right, make it fast](https://thetombomb.com/posts/make-it-work-right-fast) - and understanding that sometimes this doesn't happen in a single ticket.
 - [Radicaly Candor](https://en.wikipedia.org/wiki/Radical_Candor) - I prefer to work with people that will openly give frank feedback.
-- [Strong opionions weakly held](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)
+- [Strong opinions weakly held](https://medium.com/@ameet/strong-opinions-weakly-held-a-framework-for-thinking-6530d417e364)
 - Bringing novel ideas to the table to discuss, but prioritizing practicality.
 - Taking appropriate risks, intellectually and personally.
 - Introspection and personal growth
