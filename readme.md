@@ -66,7 +66,7 @@ Please reach out to me if you want to pair! I'm normally open to pair programmin
 
 ### Strengths
 
-1. *Creative problem-solving* - I enjoy finding new ideas and patterns to solve problems and I feel excited to explore possibilities that are "outside of the box". Sometimes this means I've had to work harder towards prioritizing practicality, understanding community standards, and making sure I always think of horses before zebras at the sounds of hooves. Although on a good day, I can find ideas that are both novel AND practically useful.
+1. *Creative problem-solving* - I enjoy finding new ideas and patterns to solve problems and I feel excited to explore possibilities that are "outside of the box". Sometimes this means I've had to work harder towards prioritizing practicality, understanding community standards, and making sure I always think of horses before zebras when I hear the sound of hooves. Although on a good day, I can find ideas that are both novel AND practically useful.
 
 2. *Curiosity* - One of the greatest pleasures of this career is the amount that we get to learn on a daily basis. Curiosity is a useful trait for learning technical skills, but I also strongly believe it's crucial to a good team dynamic to be curious about other people on an interpersonal level.
 
