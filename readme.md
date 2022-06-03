@@ -15,7 +15,7 @@ My goal at WP Engine include:
 
 ## Things you should know about me
 
-I see much of our work here as developers as a creative endeavor, and I think approaching software development as an outlet for creativity changes our process and outlook.
+I see engineering work as a creative endeavor, and I think approaching software development as an outlet for creativity changes our process and outlook.
 
 A big value I have in team settings is that an appropriate amount of friction can improve our work. When I have an idea, I want to hear contradictory thoughts on it and will always do my best to understand those perspectives before I develop opinions about them. This is how we end up with great ideas that have team buy-in.
 
@@ -44,7 +44,7 @@ A big value I have in team settings is that an appropriate amount of friction ca
 
 I check notifications and review requests periodically in GitHub but often can overlook them when I'm heads down - this is something I'm trying to work towards being better at. I often rely on morning standups to get the status of what needs to be reviewed. You will never bother me by sending an extra reminder or request through slack.
 
-In many of my PRs I open (particularly in larger PRs), I try to use PR comments to highlight discussion topics, difficult decisions that I ran into, or specific items that I'm curious to get feedback from.
+In many of my PRs I open (particularly in larger PRs), I try to use PR comments to highlight discussion topics, difficult decisions that I ran into, or specific items that I'm curious to get feedback on.
 
 For larger PRs, both on reviewing and receiving a review, I've found Zoom code walk-throughs can sometimes be more efficient, and I'm always open to it on either side of a review.
 
@@ -66,15 +66,15 @@ Please reach out to me if you want to pair! I'm normally open to pair programmin
 
 ### Strengths
 
-1. *Creative problem-solving* - I enjoy finding new ideas and patterns to problems and feel comfortable exploring possibilities that are outside of "the box". Sometimes this means I've had to work harder towards prioritizing practicality, understanding community standards and making sure I always think of horses before zebras at the sounds of hooves. Although on a good day, I can find ideas that are both novel AND practically useful.
+1. *Creative problem-solving* - I enjoy finding new ideas and patterns to problems and feel comfortable exploring possibilities that are "outside of the box". Sometimes this means I've had to work harder towards prioritizing practicality, understanding community standards, and making sure I always think of horses before zebras at the sounds of hooves. Although on a good day, I can find ideas that are both novel AND practically useful.
 
 2. *Curiosity* - One of the greatest pleasures of this career is the amount that we get to learn on a daily basis. Curiosity is a useful trait for leaning technical skills, but I strongly believe it's also crucial to a good team dynamic to be curious about other people on an interpersonal level.
 
-3. *Solving interpersonal conflict* - I don't always get things right the first (or second) time, but if you approach me with an issue of how I've interacted with you then I am confident that we can have a productive discussion about it which we will both walk away from feeling better.
+3. *Solving interpersonal conflict* - I don't always get things right the first (or second) time, but if you approach me with an issue of how I've interacted with you, then I am confident that we can have a productive discussion about it which we will both walk away from feeling better.
 
 ### Things I'm working on 😅
 
-1. *Focus* - People often describe me as a "scatterbrained" person. It's a challenge to keep to one train of thought sometimes, and this can become apparent when I'm trying to discuss new idea's or speak off the cuff about something that I have a lot of thoughts on. This can also come up when I'm trying to start a new piece of work that has many components to it that I want to think through first, even if it's better to just start the work and solve problems as they come. Making detailed notes to prepare for speaking about complex things and writing TODO lists for complicated tickets has been a big help with this.
+1. *Focus* - People often describe me as a "scatterbrained" person. It's a challenge to keep to one train of thought sometimes, and this can become apparent when I'm trying to discuss new ideas or speak off the cuff about something that I have a lot of thoughts on. This can also come up when I'm trying to start a new piece of work that has many components to it that I want to think through first, even if it's better to just start the work and solve problems as they come. Making detailed notes to prepare for speaking about complex things and writing TODO lists for complicated tickets has been a big help with this.
 
 2. *Organization* - I don't have as methodic and well-defined process as many other developers do, and I think improving in this area could be a benefit to the teams I work with. I'm working on having a more defined process around regularly checking notifications and calendar events, scheduling review time, and staying on top of the day to day maintenance tasks that this job requires.
 
