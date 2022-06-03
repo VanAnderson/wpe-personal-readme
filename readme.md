@@ -4,7 +4,7 @@ Welcome to my personal readme! I hope this helps give more context on how I work
 
 ## My Goals
 
-My goal at WP Engine include:
+My goals at WP Engine include:
 
 - Learning new technical skills and strengthening my ability as a software developer
 - Understanding existing patterns in our codebases and how they can be improved
